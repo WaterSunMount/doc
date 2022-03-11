@@ -1,0 +1,36 @@
+{
+    "author": "peak Liu <peak_52885199@163.com>",
+    "description": "记录一些java基础内容",
+    "extension": null,
+    "generator": "site",
+    "isbn": null,
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "个人博客": "https://blog.peakliu.top"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [],
+    "title": "Sample GitBook",
+    "variables": {}
+}
