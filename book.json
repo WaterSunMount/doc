@@ -1,10 +1,10 @@
 {
-    "title": "国光的黑苹果安装教程",
-      "author": "国光",
+    "title": "java框架使用",
+      "author": "peakliu",
       "language": "zh-hans",
       "links": {
           "sidebar": {
-            "个人博客": "//www.sqlsec.com"
+            "个人博客": "//blog.peakliu.top"
           }
         },
       "plugins": [
